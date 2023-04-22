@@ -10,4 +10,4 @@ tags: [Page]
 
 **Wonyoung Cho**
 
-- 2022.09 - \t Research professor, Digital Health Center, Kyung Hee University
+- 2022.09 - &ensp; Research professor, Digital Health Center, Kyung Hee University
