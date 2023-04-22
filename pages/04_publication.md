@@ -9,7 +9,7 @@ tags: [Page]
 ## 1st and correspondence
   
   1. ,<br>
-    <a href="https://doi.org/" target="_blank"> JAMA Netw Open (2023), Impact Factor: 13.353 </a>
+    <a href="https://doi.org/" target="_blank"> JAMA Netw Open (2023), Impact Factor: 13.360 </a>
   1. Clinical manifestations of human monkeypox infection: a systematic review and meta-analysis,<br>
     <a href="https://doi.org/10.1002/rmv.2446" target="_blank"> Rev Med Virol. (2023), Impact Factor: 11.043 , JCR (Clarivate, 2022): 5/37 (Virology) </a>. (corresponding)
   1. Comparison of clinical manifestations in mpox patients living with HIV versus without HIV: a systematic review and meta-analysis,<br>
@@ -28,11 +28,12 @@ tags: [Page]
 
 ## Coauthor
 
+  1. National trends in sadness and suicidality and pandemic-related risk factors among Korean adolescents from 2005–2021,<br>
+    <a href="https://doi.org/" target="_blank"> JAMA Netw Open (2023), Impact Factor: 13.360 </a>
   1. Association between antidiabetic drugs and the incidence of atrial fibrillation in patients with type 2 diabetes: a nationwide cohort study in South Korea,<br>
-    <a href="https://doi.org/10.1016/j.diabres.2023.110626" target="_blank"> Diabetes Res Clin Pract. 198 (2023) 110626, Impact Factor: 8.81 </a>.
+    <a href="https://doi.org/10.1016/j.diabres.2023.110626" target="_blank"> Diabetes Res Clin Pract. 198 (2023) 110626, Impact Factor: 8.180 </a>.
   1. Ethnic and sex differences in the distributions of body mass index and waist circumference among adults: a binationally representative study in South Korea and the United States,<br>
     <a href="https://doi.org/10.26355/eurrev_202303_31555" target="_blank"> Eur Rev Med Pharmacol Sci. 27 (2023) 5:1889-1903, Impact Factor: 3.784 </a>.
-  1. National trends in sadness and suicidality and pandemic-related risk factors among Korean adolescents from 2005–2021,<br>
-    <a href="https://doi.org/" target="_blank"> JAMA Netw Open (2023), Impact Factor: 13.353 </a>
+
 
 ***
