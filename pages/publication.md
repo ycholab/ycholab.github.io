@@ -8,7 +8,7 @@ tags: [Page]
 
 ## 1st and correspondence
 
-1. Clinical manifestations of human monkeypox infection: a systematic review and meta-analysis,
+1. Clinical manifestations of human monkeypox infection: a systematic review and meta-analysis,<br>
   [Rev Med Virol. (2023), Impact Factor: 11.043 , JCR (Clarivate, 2022): 5/37 (Virology)](https://doi.org/10.1002/rmv.2446) (corresponding).
 3. Comparison of clinical manifestations in mpox patients living with HIV versus without HIV: a systematic review and meta-analysis, [J Med Virol. (2023) 28713 , Impact Factor: 20.693 , JCR (Clarivate, 2022): 2/37 (Virology)](https://doi.org/10.1002/jmv.28713) (corresponding).
 4. Heterotic Kerr-Schild Double Field Theory and Classical Double Copy, [JHEP 07 (2019) 030 , Impact Factor: 5.541](https://doi.org/10.1007/JHEP07(2019)030) (1st).
