@@ -6,8 +6,11 @@ feature-img: "assets/img/pexels/travel.jpeg"
 tags: [Page]
 ---
 
-# Email : wycho@khu.ac.kr
+## Email
+- [wycho@khu.ac.kr](mailto:wycho@khu.ac.kr)
 
-# Tel : 02-961-0680
+## Phone
+- 02-961-0680
 
-# [https://cdh.khu.ac.kr/](https://cdh.khu.ac.kr/)
+## Center for Digital Health
+- [https://cdh.khu.ac.kr/](https://cdh.khu.ac.kr/)
