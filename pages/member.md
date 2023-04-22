@@ -6,8 +6,8 @@ feature-img: "assets/img/pexels/travel.jpeg"
 tags: [Page]
 ---
 
-***
-# Wonyoung Cho
+
+## Wonyoung Cho
 
 
 - Education
