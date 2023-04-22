@@ -1,6 +1,7 @@
 # SITE CONFIGURATION
 baseurl: ""
 url: "https://ycholab.github.io"
+mainfont: Times New Roman
 
 # THEME-SPECIFIC CONFIGURATION
 title: ycho LAB                                    # site's title
