@@ -6,10 +6,11 @@ feature-img: "assets/img/pexels/travel.jpeg"
 tags: [Page]
 ---
 
-<br>
+
 
 **Wonyoung Cho**
 
+<br>
 - Education
   - 2012.02 ~ 2017.02, Ph.D. Quantum Statistical Physics, Sogang University.
   - 2010.02 ~ 2012.02, MS. Physics, Sogang University.
