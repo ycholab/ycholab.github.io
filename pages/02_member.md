@@ -29,5 +29,5 @@ tags: [Page]
 
 ***
 
-<a href="https://scholar.google.co.kr/citations?hl=en&user=FFLu6zwAAAAJ&view_op=list_works&sortby=pubdate" target="_blank">Google scholar</a> /
+<a href="https://scholar.google.co.kr/citations?hl=en&user=FFLu6zwAAAAJ&view_op=list_works&sortby=pubdate" target="_blank"> Google scholar </a> /
 <a href="https://kr.linkedin.com/in/wonyoung-cho-a0477b131" target="_blank"> Linkedin </a>
