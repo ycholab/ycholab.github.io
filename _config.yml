@@ -1,5 +1,5 @@
 # SITE CONFIGURATION
-baseurl: #""
+baseurl: ""
 url: "https://ycholab.github.io"
 
 # THEME-SPECIFIC CONFIGURATION
