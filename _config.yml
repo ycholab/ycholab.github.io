@@ -1,7 +1,13 @@
 # SITE CONFIGURATION
 baseurl: ""
 url: "https://ycholab.github.io"
-mainfont: Times New Roman
+fonts:
+  - Times New Roman
+
+# The font size to be used.
+font_size: 12
+
+mainfont: 
 
 # THEME-SPECIFIC CONFIGURATION
 title: ycho LAB                                    # site's title
