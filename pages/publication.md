@@ -6,7 +6,7 @@ feature-img: "assets/img/pexels/travel.jpeg"
 tags: [Page]
 ---
 
-## Publications
+# Publications
 
 ### Papers - 1st and correspondence
 
