@@ -21,9 +21,13 @@ tags: [Page]
   6. Supersymmetric gauged double field theory: systematic derivation by virtue of twist,<br>
     [JHEP 08 (2015) 084 , Impact Factor: 6.111](https://doi.org/10.1007/JHEP08(2015)084). (1st)
 
+***
+
 ## Coauthor
 
   1. Association between antidiabetic drugs and the incidence of atrial fibrillation in patients with type 2 diabetes: a nationwide cohort study in South Korea,<br>
     [Diabetes Res Clin Pract. 198 (2023) 110626 , Impact Factor: 8.81](https://doi.org/10.1016/j.diabres.2023.110626).
   1. Ethnic and sex differences in the distributions of body mass index and waist circumference among adults: a binationally representative study in South Korea and the United States,<br>
     [Eur Rev Med Pharmacol Sci. 27 (2023) 5:1889-1903 , Impact Factor: 3.784](https://doi.org/10.26355/eurrev_202303_31555).
+
+***
