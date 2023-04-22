@@ -17,6 +17,6 @@ tags: [Page]
 ***
 
 ## Center for Digital Health
-> [https://cdh.khu.ac.kr/](https://cdh.khu.ac.kr/)
+> <a href="https://cdh.khu.ac.kr" target="_blank"> https://cdh.khu.ac.kr </a>
 
 ***
