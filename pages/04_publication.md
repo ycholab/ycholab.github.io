@@ -9,7 +9,7 @@ tags: [Page]
 ## 1st and correspondence
   
   1. ,<br>
-    <a href="https://doi.org/" target="_blank"> JAMA Netw Open (2023), Impact Factor: 13.360, JCR: 8.7% (15/172 in MEDICINE, GENERAL & INTERNAL)  </a>.
+    <a href="https://doi.org/" target="_blank"> JAMA Netw Open (2023), Impact Factor: 13.360, JCR: 8.7% (15/172 in MEDICINE, GENERAL & INTERNAL)  </a>. (corresponding)
   1. Clinical manifestations of human monkeypox infection: a systematic review and meta-analysis,<br>
     <a href="https://doi.org/10.1002/rmv.2446" target="_blank"> Rev Med Virol. (2023), Impact Factor: 11.043 , JCR: 13.5% (5/37 in VIROLOGY) </a>. (corresponding)
   1. Comparison of clinical manifestations in mpox patients living with HIV versus without HIV: a systematic review and meta-analysis,<br>
