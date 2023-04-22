@@ -10,13 +10,13 @@ tags: [Page]
 ## Wonyoung Cho
 
 
-- Education
+### Education
   - 2012.02 - 2017.02, &ensp; Ph.D. Quantum Statistical Physics, Sogang University.
   - 2010.02 - 2012.02, &ensp; MS. Physics, Sogang University.
   - 2002.03 - 2009.08, &ensp; BS. Physics and Mathematics (Dual degrees) , Kyungwon University.
 
 
-- Career
+### Career
   - 2022.09 - present, &ensp; Research professor at Kyung Hee University
   - 2022.08 - 2022.08, &ensp; Researcher at Yonsei University.
   - 2021.08 - 2022.07, &ensp; Research Professor at Yonsei University.
