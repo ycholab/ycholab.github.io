@@ -10,4 +10,4 @@ tags: [Page]
 
 **Wonyoung Cho**
 
-Research professor, Kyung Hee University
+Research professor, Digital Health Center, Kyung Hee University
