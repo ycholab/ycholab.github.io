@@ -15,6 +15,7 @@ tags: [Page]
   - 2010.02 ~ 2012.02, MS. Physics, Sogang University.
   - 2002.03 ~ 2009.08, BS. Physics, Mathematics (Dual degrees) , Kyungwon University.
 
+
 - Career
   - 2022.09 ~ present, &ensp; Research professor at Kyung Hee University
   - 2022.08 ~ 2022.08, Researcher at Yonsei University.
