@@ -10,10 +10,11 @@ tags: [Page]
   
   1. ,
     <a href="https://doi.org/" target="_blank"> JAMA Netw Open (2023), Impact Factor: 13.353 </a>
-  3. Clinical manifestations of human monkeypox infection: a systematic review and meta-analysis,<br>
+  1. Clinical manifestations of human monkeypox infection: a systematic review and meta-analysis,<br>
     <a href="https://doi.org/10.1002/rmv.2446" target="_blank"> Rev Med Virol. (2023), Impact Factor: 11.043 , JCR (Clarivate, 2022): 5/37 (Virology) </a>. (corresponding)
   1. Comparison of clinical manifestations in mpox patients living with HIV versus without HIV: a systematic review and meta-analysis,<br>
     <a href="https://doi.org/10.1002/jmv.28713" target="_blank"> J Med Virol. (2023) 28713, Impact Factor: 20.693 , JCR (Clarivate, 2022): 2/37 (Virology) </a>. (corresponding)
+    
   1. Heterotic Kerr-Schild Double Field Theory and Classical Double Copy,<br>
     <a href="https://doi.org/10.1007/JHEP07(2019)030" target="_blank"> JHEP 07 (2019) 030, Impact Factor: 5.541 </a>. (1st)
   1. Isobaric Critical Exponents: Test of Analyticity against NIST Reference Data, <br>
