@@ -10,3 +10,4 @@ tags: [Page]
 
 **Wonyoung Cho**
 
+Research professor, Kyung Hee University
