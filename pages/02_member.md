@@ -15,6 +15,7 @@ tags: [Page]
   - 2010.02 - 2012.02, &ensp; MS. Physics, Sogang University.
   - 2002.03 - 2009.08, &ensp; BS. Physics and Mathematics (Dual degrees) , Kyungwon University.
 
+***
 
 ### Career
   - 2022.09 - present, &ensp; Research professor at Kyung Hee University
@@ -25,3 +26,8 @@ tags: [Page]
   - 2017.01 - 2018.06, &ensp; Medical physicist at Yonsei Hospital.
   - 2014.06 - 2017.02, &ensp; Research assistant at Sogang University.
   - 2010.03 - 2014.02, &ensp; Research assistant at Center for Quantum Spacetime.
+
+***
+
+- [Google scholar](https://scholar.google.co.kr/citations?hl=en&user=FFLu6zwAAAAJ&view_op=list_works&sortby=pubdate)
+- [Linkedin](https://kr.linkedin.com/in/wonyoung-cho-a0477b131)
