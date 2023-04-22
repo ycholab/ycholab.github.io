@@ -13,7 +13,7 @@ tags: [Page]
 - Education
   - 2012.02 ~ 2017.02, Ph.D. Quantum Statistical Physics, Sogang University.
   - 2010.02 ~ 2012.02, MS. Physics, Sogang University.
-  - 2002.03 ~ 2009.08, BS. Physics, Mathematics (Dual degrees) , Kyungwon University.
+  - 2002.03 ~ 2009.08, BS. Physics and Mathematics (Dual degrees) , Kyungwon University.
 
 
 - Career
