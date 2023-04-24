@@ -6,7 +6,7 @@ feature-img: "assets/img/pexels/travel.jpeg"
 tags: [Page]
 ---
 
-## 1st and correspondence
+## 1st and corresponding author
   
   1. ,<br>
     <a href="https://doi.org/" target="_blank"> JAMA Netw Open (2023) </a>, Impact Factor: 13.360, JCR: 8.7% (15/172 in MEDICINE, GENERAL & INTERNAL). (corresponding)
